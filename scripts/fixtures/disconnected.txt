@@ -1,0 +1,8 @@
+// Region C is split in two (cells on row 1 and on rows 3-4). The board still
+// has exactly one solution, so it is accepted with --allow-disconnected and
+// rejected otherwise.
+# Split region | 2026-04-01
+DCCB
+DDAB
+DCAB
+DCAB

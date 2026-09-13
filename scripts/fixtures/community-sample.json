@@ -1,0 +1,23 @@
+{
+  "puzzles": [
+    {
+      "name": "Diagonal twist",
+      "date": "2026-02-02",
+      "number": 2,
+      "attribution": "Hand-made fixture",
+      "regions": [
+        "AAABB",
+        "AAACC",
+        "AAACC",
+        "DEEEC",
+        "DECCC"
+      ]
+    },
+    {
+      "name": "Numeric regions (duplicate of Four corners)",
+      "size": 4,
+      "regions": [[0, 0, 1, 1], [2, 2, 1, 1], [2, 3, 3, 1], [2, 3, 3, 3]],
+      "colors": ["#96BEFF", "#FFC992", "#B3DFA0", "#DFDFDF"]
+    }
+  ]
+}

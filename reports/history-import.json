@@ -1,0 +1,1595 @@
+{
+  "source": "linkedinzip.solutions",
+  "retrievedAt": "2026-09-11T06:25:24.460Z",
+  "range": [
+    600,
+    863
+  ],
+  "records": [
+    {
+      "number": 600,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-600-answer/",
+      "status": "verified-existing",
+      "sha256": "85610f2e9626321241fbfc822a9c144011f72f28b68665dca3e798d480ab91bd"
+    },
+    {
+      "number": 601,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-601-answer/",
+      "status": "verified-existing",
+      "sha256": "8cf53b511c8487b9c464be2529839175ec3805adfb8b705b7f9481a1c6f8a41e"
+    },
+    {
+      "number": 602,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-602-answer/",
+      "status": "verified-existing",
+      "sha256": "04eb25a336977a1f3b49646c1c0488c1d2e982b0c622beca13376dee5b54c66d"
+    },
+    {
+      "number": 603,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-603-answer/",
+      "status": "verified-existing",
+      "sha256": "7f14208fd5aa18949dcde45643b87bf92dc5dba6555b324e96eaac2dd2a52c41"
+    },
+    {
+      "number": 604,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-604-answer/",
+      "status": "verified-existing",
+      "sha256": "1608a2c20de0602da42311c2cf7457f5b767b631302513466e96237c3c3c174f"
+    },
+    {
+      "number": 605,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-605-answer/",
+      "status": "verified-existing",
+      "sha256": "172babbeddc9f348226e120f0855e9f3964ad31fe4fa360a697fe1a21f713dc0"
+    },
+    {
+      "number": 606,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-606-answer/",
+      "status": "verified-existing",
+      "sha256": "15032e5c9f08fe4e2c2f2dd08358f0b0a62d1593aa7332c0c4b84f17d3457f26"
+    },
+    {
+      "number": 607,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-607-answer/",
+      "status": "verified-existing",
+      "sha256": "88f0023b8291b8359693d23db874af2763a794f3800b3d5ac1c509548bb44541"
+    },
+    {
+      "number": 608,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-608-answer/",
+      "status": "verified-existing",
+      "sha256": "cf7b066937a60915d87f6082266766f7a08c0daedb925e146ec84acb271d4f51"
+    },
+    {
+      "number": 609,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-609-answer/",
+      "status": "verified-existing",
+      "sha256": "6a6950f40ff99a1f95e670ed1181bcfe435f4b9c375bb0b1aa8d7e4c8af60ea9"
+    },
+    {
+      "number": 610,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-610-answer/",
+      "status": "verified-existing",
+      "sha256": "0b49789a8d26c7fcaaf8aaa4a8e4f9fd62970c9da2b2d44060833c10b3ea7bac"
+    },
+    {
+      "number": 611,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-611-answer/",
+      "status": "verified-existing",
+      "sha256": "27c35202e5d452694e2f9f973283f5f22d3a911d895bf49cfd0332871f1426b9"
+    },
+    {
+      "number": 612,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-612-answer/",
+      "status": "verified-existing",
+      "sha256": "987dce4d3cfc9fc4542f987d5a95e9798b39ced09175cd3ffa4a4afb728f974d"
+    },
+    {
+      "number": 613,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-613-answer/",
+      "status": "verified-existing",
+      "sha256": "273916af3deb3763859d3ff84f875258931335106351fb94a968f97e3e14dcf4"
+    },
+    {
+      "number": 614,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-614-answer/",
+      "status": "verified-existing",
+      "sha256": "428bea9cad871c75f231481e6dceefbb43553ad489612f1f15f36cff243db5c4"
+    },
+    {
+      "number": 615,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-615-answer/",
+      "status": "verified-existing",
+      "sha256": "cb34110379f955b46e4c4cf13075d3111d7effbf538c086dc114b16f294cae1f"
+    },
+    {
+      "number": 616,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-616-answer/",
+      "status": "verified-existing",
+      "sha256": "38245b080b576529a0adf7272aff8eee985e206c78cae2e956fe2acf8e495136"
+    },
+    {
+      "number": 617,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-617-answer/",
+      "status": "imported",
+      "sha256": "2b83be20a1a92c64931063f807cbf0570008181c818e840f8b223c5b08b38a08"
+    },
+    {
+      "number": 618,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-618-answer/",
+      "status": "imported",
+      "sha256": "50a2c87384e9f8e2402e23e174a6fa3360f3c8d295a5c3b5e7248b46482d253d"
+    },
+    {
+      "number": 619,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-619-answer/",
+      "status": "imported",
+      "sha256": "93e3405efe9167df0f1759df74ee2b614ba608549c0244c860b178f8d26deab3"
+    },
+    {
+      "number": 620,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-620-answer/",
+      "status": "imported",
+      "sha256": "7ffd3cf53bb0871154b967ee31ed7ae944b7c441b87a6d40d7563ceabb360219"
+    },
+    {
+      "number": 621,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-621-answer/",
+      "status": "imported",
+      "sha256": "226f0ded7e3a563aabdfd07ee00b19035b4ffb0ece43e0100f19dbc1cd5a3416"
+    },
+    {
+      "number": 622,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-622-answer/",
+      "status": "imported",
+      "sha256": "9ee35cdd0528ff9fd2287e67276610f21c8ff2241e7f6feeb71c582d741360cd"
+    },
+    {
+      "number": 623,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-623-answer/",
+      "status": "imported",
+      "sha256": "b8d969497cd33f2d95a8cba872819bc1556f554430a9891414596d2a1165d16c"
+    },
+    {
+      "number": 624,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-624-answer/",
+      "status": "imported",
+      "sha256": "86418c6e51250d532f9b856d487568d8e5b2793f41d21fd707642a02fd7e205f"
+    },
+    {
+      "number": 625,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-625-answer/",
+      "status": "imported",
+      "sha256": "de3bce5f916e15e4e05ba48783238d483003a05bd43d5db2f16be0b0fad6303d"
+    },
+    {
+      "number": 626,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-626-answer/",
+      "status": "imported",
+      "sha256": "4a91e0cde7e84b755f1efb336bb41bd7d59032c3dccb4cca4d2eb78366b3250d"
+    },
+    {
+      "number": 627,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-627-answer/",
+      "status": "imported",
+      "sha256": "e56df57012c6abae67db78b7ba84cf14c77f3f272f4a32b118998b60aee0680f"
+    },
+    {
+      "number": 628,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-628-answer/",
+      "status": "imported",
+      "sha256": "1eefff67b78c6939b2cc324cdfe0c54d0d30cd76501241651ed7a8979704f0c4"
+    },
+    {
+      "number": 629,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-629-answer/",
+      "status": "imported",
+      "sha256": "64b51c3fd1574baa5eab12a8366f233bf69d158c82f0c9033d6d09779c2cc348"
+    },
+    {
+      "number": 630,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-630-answer/",
+      "status": "imported",
+      "sha256": "12c018b315694ae300911959881b4009dfa3c474a8e56fd7af991b58b1accacb"
+    },
+    {
+      "number": 631,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-631-answer/",
+      "status": "imported",
+      "sha256": "f276e84cdc1f090a17f2300f40dcccdde7776f0c7b48ddd8a8434a4423ac9430"
+    },
+    {
+      "number": 632,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-632-answer/",
+      "status": "imported",
+      "sha256": "691ae82aaee438f3c924bd89bbd4699c9c22c52b8d4728cbfddd9d31c436bd30"
+    },
+    {
+      "number": 633,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-633-answer/",
+      "status": "imported",
+      "sha256": "a994e58941e673ec6a1a0c1ba2e848386499a4d144a94b86e775c24860dbf793"
+    },
+    {
+      "number": 634,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-634-answer/",
+      "status": "imported",
+      "sha256": "49f32caf88112682e3ef3072d2efaf37bb5556d34e643cad343b2d36b4aca00d"
+    },
+    {
+      "number": 635,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-635-answer/",
+      "status": "imported",
+      "sha256": "a6c6fbb3b24b95daf12c2398e48e082778992e2a9c6ccba8ee52b6a045702fe5"
+    },
+    {
+      "number": 636,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-636-answer/",
+      "status": "imported",
+      "sha256": "dd4af395108c0c967fed26bcdf045d1e1ccca5f51a5638b88ed96b3fbe5b59e4"
+    },
+    {
+      "number": 637,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-637-answer/",
+      "status": "imported",
+      "sha256": "f156a72899d5f1a7488bde55cfebc0c03288afa4dde2691915543c4c8e22b3e7"
+    },
+    {
+      "number": 638,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-638-answer/",
+      "status": "imported",
+      "sha256": "37fe58d445254b147dd0667707714041ac91b05f3dc54def9462ef4a5f8a8bdd"
+    },
+    {
+      "number": 639,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-639-answer/",
+      "status": "imported",
+      "sha256": "42235bae47eb9668be64e5ca9a4639b89836757b3f95c55271bf9bfa1aadc760"
+    },
+    {
+      "number": 640,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-640-answer/",
+      "status": "imported",
+      "sha256": "d83d5758f4431f3b12686fc5bf41408c17aff298d0063cf5ac8feb27721fffd2"
+    },
+    {
+      "number": 641,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-641-answer/",
+      "status": "imported",
+      "sha256": "c97d8d09e58e6cc1d21b7379e250d504aeeccbe9429c90339f6b891d701e7cb0"
+    },
+    {
+      "number": 642,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-642-answer/",
+      "status": "imported",
+      "sha256": "1ddbd33e2452e33a1167889e52f4076b92735e15f3e64b51ff2713687bb2dd0e"
+    },
+    {
+      "number": 643,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-643-answer/",
+      "status": "imported",
+      "sha256": "58ab9eb3dd7630ef3996f502322015e965e61c949556429eb70108e15b4ba6b0"
+    },
+    {
+      "number": 644,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-644-answer/",
+      "status": "imported",
+      "sha256": "584f21786103459058a971e5248da9b3a3d05272d9208277756819e0caf5760d"
+    },
+    {
+      "number": 645,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-645-answer/",
+      "status": "imported",
+      "sha256": "87cc0bf9f4128219f4cf078744c1ae68e4d9061f4b7dceafa4a991e9157730ad"
+    },
+    {
+      "number": 646,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-646-answer/",
+      "status": "imported",
+      "sha256": "1a525aa3e4c78caa3f322b2ec547f14201e3d3db786a8958e040650251e343d6"
+    },
+    {
+      "number": 647,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-647-answer/",
+      "status": "imported",
+      "sha256": "16913f1d058cc89d3690582f409e8b81862c414f7be87c6aa57b93577f61bfc5"
+    },
+    {
+      "number": 648,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-648-answer/",
+      "status": "imported",
+      "sha256": "c7f51b70ad294de029702146d632e93ec66e44d27f885cc91b29297ceb101d3f"
+    },
+    {
+      "number": 649,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-649-answer/",
+      "status": "imported",
+      "sha256": "ecf3d4a20dd354651b74d3a4189ebb196b554305a258448bb10e6190cd482f49"
+    },
+    {
+      "number": 650,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-650-answer/",
+      "status": "imported",
+      "sha256": "7156b29e37b34c056c202acf8edbb448b1290e286a54316b6d9aeb21cb03027a"
+    },
+    {
+      "number": 651,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-651-answer/",
+      "status": "imported",
+      "sha256": "531adeea5444707c0e2a4675142eb91961e73c4e5c36970f30eab3c16f5c54fb"
+    },
+    {
+      "number": 652,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-652-answer/",
+      "status": "imported",
+      "sha256": "dfff2d0ca6c17bfcb925a3a354fbe57fc4c0d7470291179e27df10c488089f45"
+    },
+    {
+      "number": 653,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-653-answer/",
+      "status": "imported",
+      "sha256": "046a3f12494c18e9bb82ae1ed147091973a5cf5bd1f10c13ed6e28cdcf4612c1"
+    },
+    {
+      "number": 654,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-654-answer/",
+      "status": "imported",
+      "sha256": "d3ad2b4aff0a35bbefe5b7fb9b62ba4f4a785b68981050ec388d4afe9d0c14a7"
+    },
+    {
+      "number": 655,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-655-answer/",
+      "status": "imported",
+      "sha256": "e3444d9e31bfecbcb6389748382a3ceebaf21b90b3ddaded445b88bfdbcc22af"
+    },
+    {
+      "number": 656,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-656-answer/",
+      "status": "imported",
+      "sha256": "6d0bd42f216acd2057e4bc51377ebaf25f252790638f1e1f7d35783b87766d16"
+    },
+    {
+      "number": 657,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-657-answer/",
+      "status": "imported",
+      "sha256": "2eebf46cfe7d41fef54eba6578502a8b999ce823e6445ae457dfcf73ef729b6a"
+    },
+    {
+      "number": 658,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-658-answer/",
+      "status": "imported",
+      "sha256": "61f777054fb96376af02a8ff81cadb61ee4f6c97be83bdbebd438607eac91e5f"
+    },
+    {
+      "number": 659,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-659-answer/",
+      "status": "imported",
+      "sha256": "9b7da7b4d136e9845986258fe425a21a9bb60a4d6570c608f7ec25250c4a2e86"
+    },
+    {
+      "number": 660,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-660-answer/",
+      "status": "imported",
+      "sha256": "d90af16567e8996a454f27ce1c568f48d3fdb960eaa38511adefd16a86cc9660"
+    },
+    {
+      "number": 661,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-661-answer/",
+      "status": "imported",
+      "sha256": "7415f72973c4391d4b950deed4c6c246ad4c406804fc3637cb3bf4ece966d332"
+    },
+    {
+      "number": 662,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-662-answer/",
+      "status": "imported",
+      "sha256": "f0154cc834ab5875f76dbb4d933082706870285edea04cdacc22dfd64d78e4f2"
+    },
+    {
+      "number": 663,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-663-answer/",
+      "status": "imported",
+      "sha256": "81863bbff4d1b4c9fdf3e177aee1ef0319e682d7efbb869c2c40e032d0b3b267"
+    },
+    {
+      "number": 664,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-664-answer/",
+      "status": "imported",
+      "sha256": "021f50d9f1cbb9a5f98b711622a693224a3227d6a790200109ada242398eeb1e"
+    },
+    {
+      "number": 665,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-665-answer/",
+      "status": "imported",
+      "sha256": "3c83454ab6de78f672771a00138cfeb39cdb2b437f10fd5b4bf60e47154a4737"
+    },
+    {
+      "number": 666,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-666-answer/",
+      "status": "imported",
+      "sha256": "5386b366aa0e633e16cee04b3616589af2def0547a376227f964f643fbdab299"
+    },
+    {
+      "number": 667,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-667-answer/",
+      "status": "imported",
+      "sha256": "a160705701fa7c96200a4cd95c91d83ae2494e49d7d5c45cadf5d767c77e5036"
+    },
+    {
+      "number": 668,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-668-answer/",
+      "status": "imported",
+      "sha256": "7de9e415d4a80baaa4599e9dc2a0dfab5c0eea59ebb6e53031519e9c74572d92"
+    },
+    {
+      "number": 669,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-669-answer/",
+      "status": "imported",
+      "sha256": "14631203e471372049e1a2a10b84bb8b35d08a7caa7b5c00870ad6270df993d9"
+    },
+    {
+      "number": 670,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-670-answer/",
+      "status": "imported",
+      "sha256": "1281e005b419fc56c549eaf71470f9925c9f9be7082d6bc2200b52874b304d50"
+    },
+    {
+      "number": 671,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-671-answer/",
+      "status": "imported",
+      "sha256": "fa609493369ad39b1d849125f4a1502b4717a8739afcd51dea961cc15281cc81"
+    },
+    {
+      "number": 672,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-672-answer/",
+      "status": "imported",
+      "sha256": "05cf02ea954f71e2c568d58cb405d76291c4145f6972b8222a21225c2607f25c"
+    },
+    {
+      "number": 673,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-673-answer/",
+      "status": "imported",
+      "sha256": "0bc00866be5ac182bdf186695cf9898f443344048c3848ecfeb6fa8a755976b9"
+    },
+    {
+      "number": 674,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-674-answer/",
+      "status": "imported",
+      "sha256": "fc036263cfcbc2d4682ab82a2cd9a7fc72001fea8930d15c951cca2a444f0ec5"
+    },
+    {
+      "number": 675,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-675-answer/",
+      "status": "imported",
+      "sha256": "411d4541c39e1bce2a5d991cdbfdc49432dbaa6ca379c65df1ce96426500d5eb"
+    },
+    {
+      "number": 676,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-676-answer/",
+      "status": "imported",
+      "sha256": "a1103eab39949f5a3b811d64006dd66f06f14fe1731f8cf807503641843ce1c7"
+    },
+    {
+      "number": 677,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-677-answer/",
+      "status": "imported",
+      "sha256": "df500724acb3394c68a567c413304375991bcea185b507d55d032d9a4e960550"
+    },
+    {
+      "number": 678,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-678-answer/",
+      "status": "imported",
+      "sha256": "2461626109125be9791fe555d08eae9a78f5980a4113afbd6f0d8e3c87d42b15"
+    },
+    {
+      "number": 679,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-679-answer/",
+      "status": "imported",
+      "sha256": "460a3469253c8c7ba0f38cf4af4e4c15460ab19b66e36cae6681c73a144fd9f8"
+    },
+    {
+      "number": 680,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-680-answer/",
+      "status": "imported",
+      "sha256": "bbbc8ae4744e227a35238b55a3b3411db0c497c98d42453b0c33dab262836b03"
+    },
+    {
+      "number": 681,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-681-answer/",
+      "status": "imported",
+      "sha256": "08f9f870ab66781b6df993c4e2116227be2c1b1952eb6327007a6ca3c18f5922"
+    },
+    {
+      "number": 682,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-682-answer/",
+      "status": "imported",
+      "sha256": "3116800adbee9b546e8dff9bcaa836cce6bf36c73f69cad7d942fd78f64170da"
+    },
+    {
+      "number": 683,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-683-answer/",
+      "status": "imported",
+      "sha256": "69a29c0c44fa01a79ec41ae956c4acde09e300cfbf827b8bb3b4c0b770f53523"
+    },
+    {
+      "number": 684,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-684-answer/",
+      "status": "imported",
+      "sha256": "c4f5f20dc5ec4d7300648742d00c2d496c13e43cbc4b7d58515c8047506f9c04"
+    },
+    {
+      "number": 685,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-685-answer/",
+      "status": "imported",
+      "sha256": "5ede65fecc586a5768fbc5e3bf1ab6b3fccb986ad8a30e28b49145c5388cb6dd"
+    },
+    {
+      "number": 686,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-686-answer/",
+      "status": "imported",
+      "sha256": "70a7a948c212824d54d3204e8a4a244e1d713ac36ea0873d3b655e035e7fbad7"
+    },
+    {
+      "number": 687,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-687-answer/",
+      "status": "imported",
+      "sha256": "fddc339cfd3048ff869a104fb6d80fe4dd1db5776832a13906ff7f9e3aadf5c3"
+    },
+    {
+      "number": 688,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-688-answer/",
+      "status": "imported",
+      "sha256": "faab59df983c6b275751e9dce622d467158605c81ab11ee38eafa7a1d9164225"
+    },
+    {
+      "number": 689,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-689-answer/",
+      "status": "imported",
+      "sha256": "9bbbb4e37308ee5b1201c81e5d3fe2f9ae2807a149fa7c39aa44d71bf68ce680"
+    },
+    {
+      "number": 690,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-690-answer/",
+      "status": "imported",
+      "sha256": "39431bf0fa1078b51664773128a19422d2f97621cd06b766c38fb37c98897dc1"
+    },
+    {
+      "number": 691,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-691-answer/",
+      "status": "imported",
+      "sha256": "f937569493af185f968e71ade3b82dea24bda58df22fe36925f7719c02a531ba"
+    },
+    {
+      "number": 692,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-692-answer/",
+      "status": "imported",
+      "sha256": "65a7ed6b4e210f9ee246118d6edefbd4189cdc8491fce24a048292c1d622aad5"
+    },
+    {
+      "number": 693,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-693-answer/",
+      "status": "imported",
+      "sha256": "a9ea92cb325c090abe9683c7f9603557b16b04dda5b1dc51db0728bbbbfc5d20"
+    },
+    {
+      "number": 694,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-694-answer/",
+      "status": "imported",
+      "sha256": "7452764e872293e8b421fbbbe89b35e2c1f22560b3f0cf5de0fe4ef945f2a673"
+    },
+    {
+      "number": 695,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-695-answer/",
+      "status": "imported",
+      "sha256": "da5fee4dccb6820ecc81b8ef5955b7c0144fc96078a9f0d22a4961af62411280"
+    },
+    {
+      "number": 696,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-696-answer/",
+      "status": "imported",
+      "sha256": "876350ee77fd243688236a2078402f6ef533440a58bcd1ac1058a80e88f52fdf"
+    },
+    {
+      "number": 697,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-697-answer/",
+      "status": "imported",
+      "sha256": "24c6fce423d5c7b2fe2a6cb0f3374a2166916b9fcfa1216288d0141aa4c28bed"
+    },
+    {
+      "number": 698,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-698-answer/",
+      "status": "imported",
+      "sha256": "8a706da289882a1b65d9d2834c14226c51bb9ffae07c19688923fcf600627f20"
+    },
+    {
+      "number": 699,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-699-answer/",
+      "status": "imported",
+      "sha256": "1fec2d7a692593d8ef925265f4e4508b9ca030ac1603ecfa0bdb3227600d0314"
+    },
+    {
+      "number": 700,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-700-answer/",
+      "status": "imported",
+      "sha256": "e70b27369b92b1cf35bdcffcfeb1d335fe174060d8d82aea433ee3f6e4c41056"
+    },
+    {
+      "number": 701,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-701-answer/",
+      "status": "imported",
+      "sha256": "33b8d2d4267ef3b1fc7d0b5c872c3388eb86115c7cdfc5fd77444785491bfc92"
+    },
+    {
+      "number": 702,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-702-answer/",
+      "status": "imported",
+      "sha256": "7afd7dfa4775d86aa35981502fd1cf40619bfa17490200958539e22f01c6c61c"
+    },
+    {
+      "number": 703,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-703-answer/",
+      "status": "imported",
+      "sha256": "618cfbf77954ba6b86c6bb4a42aa6b428d0118d7a0c3aa7d2cc164207f41d8ff"
+    },
+    {
+      "number": 704,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-704-answer/",
+      "status": "imported",
+      "sha256": "b82f2c7a99f42ffaec939e9b06fbcdb188aba9331d7a588b6b8c887205a0ead4"
+    },
+    {
+      "number": 705,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-705-answer/",
+      "status": "imported",
+      "sha256": "58886a38e2debdc998cb724e7d60da4d6619c27f26c4d9840f428462f6e80a99"
+    },
+    {
+      "number": 706,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-706-answer/",
+      "status": "imported",
+      "sha256": "9accfe9f8a20ec39f062316bcaa248f11957eb52953e2592024ae20916417bb3"
+    },
+    {
+      "number": 707,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-707-answer/",
+      "status": "imported",
+      "sha256": "ae6d4767885c54a7ac6455e2644d93c8a62b2c81dfdbb46914ec25409b523075"
+    },
+    {
+      "number": 708,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-708-answer/",
+      "status": "imported",
+      "sha256": "816faa811b7f8cab0f5bab3c8995e7fb855018ccf1f119f1777a987288b5819b"
+    },
+    {
+      "number": 709,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-709-answer/",
+      "status": "imported",
+      "sha256": "a77a92a1d80e7071334599ed1854b15cc372a82c1a2746d1980f469a3c878a5a"
+    },
+    {
+      "number": 710,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-710-answer/",
+      "status": "imported",
+      "sha256": "afa742d073b08382de7a22e14705cab1906985028a50cfb57e4c67a4ac27e92a"
+    },
+    {
+      "number": 711,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-711-answer/",
+      "status": "imported",
+      "sha256": "e8252b93a0b8deb14dcfc12453ee2feb5c65adb2a3c82411335fde7f55d017d5"
+    },
+    {
+      "number": 712,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-712-answer/",
+      "status": "imported",
+      "sha256": "ea2e9a11085b70ffd64276d7b56dcecb7842f40bcfab058979fb3a19bbfa8501"
+    },
+    {
+      "number": 713,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-713-answer/",
+      "status": "imported",
+      "sha256": "7d737d05dec7720a6f73f0735fff4181a4e2c4b83d62b2405c00eafd8df28f42"
+    },
+    {
+      "number": 714,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-714-answer/",
+      "status": "imported",
+      "sha256": "ae71d0e9f83f42f5ab7ec065916bb66713bf6d34fc2619b6834658e9d06cf95b"
+    },
+    {
+      "number": 715,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-715-answer/",
+      "status": "imported",
+      "sha256": "da300bdf1d3f1f2a632d8d602ff72fde61b55441f20a519d90f845b363a054c4"
+    },
+    {
+      "number": 716,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-716-answer/",
+      "status": "imported",
+      "sha256": "f7c862fa1a8ce610f260a8c23aa82ac4b58b7ade2f9cf209cb7a9280f8b6b584"
+    },
+    {
+      "number": 717,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-717-answer/",
+      "status": "imported",
+      "sha256": "06798f8be4df57eee5be00943f1cc6979f9f546262bb32e4c1cb3690880ad920"
+    },
+    {
+      "number": 718,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-718-answer/",
+      "status": "imported",
+      "sha256": "554c1ead721c6c0f5870cd27f61774f144876e630070b9f34c0eceabbac0b835"
+    },
+    {
+      "number": 719,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-719-answer/",
+      "status": "imported",
+      "sha256": "a445be940ba9e53df185177d4e3917951cb4dba3918f597ab0aa84620a456bfe"
+    },
+    {
+      "number": 720,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-720-answer/",
+      "status": "imported",
+      "sha256": "37b0b2297cd0c362a4db3f2d82544f56004e340eac26cd199f07205cf3b9b1ae"
+    },
+    {
+      "number": 721,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-721-answer/",
+      "status": "imported",
+      "sha256": "66fd7df6370ac77b3679bd89ee63e91ff6b62ce8f1157f89695cab0997c7624f"
+    },
+    {
+      "number": 722,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-722-answer/",
+      "status": "imported",
+      "sha256": "a4c655c2206b3e4f04ad1aee204f08d3a1eda3111855b846e4c8d2f0f557caf1"
+    },
+    {
+      "number": 723,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-723-answer/",
+      "status": "imported",
+      "sha256": "dd68921fc6d9fabc9162fc9f6013314952146e8dba664adb9b42b432809ac538"
+    },
+    {
+      "number": 724,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-724-answer/",
+      "status": "imported",
+      "sha256": "b595f54f00969559703cf4762d5bcd6cfbde83865cc9c55da6e230559299d124"
+    },
+    {
+      "number": 725,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-725-answer/",
+      "status": "imported",
+      "sha256": "dc3b987589dcf11f6a2972255e4945d41f038a7a3638f5d8576226effff18f28"
+    },
+    {
+      "number": 726,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-726-answer/",
+      "status": "imported",
+      "sha256": "9b471e1e7b00d58f3084138edda8cd3dc86c61bd11d3d0f9a114ac862a5937c0"
+    },
+    {
+      "number": 727,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-727-answer/",
+      "status": "imported",
+      "sha256": "367c8e065265ac28ea28b3def26526ccee4d78cb1cd8d770a94ed7bcf25047cf"
+    },
+    {
+      "number": 728,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-728-answer/",
+      "status": "imported",
+      "sha256": "3979e7dbfdd960f63d13692a974e060a0320f8d0eca155d657983b1ffddf33d1"
+    },
+    {
+      "number": 729,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-729-answer/",
+      "status": "imported",
+      "sha256": "550c24e1bd96c7e9d00eb02e9b9132edc61e3c953d5484ec536e44d667925646"
+    },
+    {
+      "number": 730,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-730-answer/",
+      "status": "imported",
+      "sha256": "8b63bd6307901bcd5006a24e66932e191e5ab8d6b67904fa043a026f278136e2"
+    },
+    {
+      "number": 731,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-731-answer/",
+      "status": "imported",
+      "sha256": "afc736e1f8567e2a465ec9cd76ac3264c4597b09515b24a558f88ec1d1015218"
+    },
+    {
+      "number": 732,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-732-answer/",
+      "status": "imported",
+      "sha256": "d42eb03bd3877ee52db7236705035a1bd23182a678fcfac6a9bb03555a948e40"
+    },
+    {
+      "number": 733,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-733-answer/",
+      "status": "imported",
+      "sha256": "79a4b8ead421509f53a7c11d5b1c0bcac5e12b239af5546787339e170ac59341"
+    },
+    {
+      "number": 734,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-734-answer/",
+      "status": "imported",
+      "sha256": "a209ab65f1b0929725136b923d0ad887d5365161ec2852ded6d1ba16593fda87"
+    },
+    {
+      "number": 735,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-735-answer/",
+      "status": "imported",
+      "sha256": "0b15008b49bc7ab4145b76d92ab5728168ccd1fe19148f178c003fd79562652d"
+    },
+    {
+      "number": 736,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-736-answer/",
+      "status": "imported",
+      "sha256": "4afcade07890be8d7d592b231e42b829b4efd7219bf6768db4e22ba130eca343"
+    },
+    {
+      "number": 737,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-737-answer/",
+      "status": "imported",
+      "sha256": "f0b533f58fa738ee15d33c33ce3e63a8b3880abc109cf89c4a8e059c991333a8"
+    },
+    {
+      "number": 738,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-738-answer/",
+      "status": "imported",
+      "sha256": "23e32f5ade043117e7341056a1b6002a0b9e7be757a5d79843a9c32550b327bb"
+    },
+    {
+      "number": 739,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-739-answer/",
+      "status": "imported",
+      "sha256": "9f72d55e1d1ccb6d6c0599a6ae269009f79242ecaca81b81145d514321ee1fad"
+    },
+    {
+      "number": 740,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-740-answer/",
+      "status": "imported",
+      "sha256": "0d9a24cc82a38f7ec3f699dd81d8f9848cf4615aaa75ce37b1e9fb749d8de801"
+    },
+    {
+      "number": 741,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-741-answer/",
+      "status": "imported",
+      "sha256": "014d7120ff7e3103008c184d224ffd02b8742cc1f45aaa98ad112773d922f04f"
+    },
+    {
+      "number": 742,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-742-answer/",
+      "status": "imported",
+      "sha256": "aa31710d6267c8e8715814455a7e7a5c9caf569c7e0e5ec7ec120fad24cc1e00"
+    },
+    {
+      "number": 743,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-743-answer/",
+      "status": "imported",
+      "sha256": "c5c6a72b975a8a67c38d08fc1dd7e408112831164fcc1519816896689cf50a3b"
+    },
+    {
+      "number": 744,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-744-answer/",
+      "status": "imported",
+      "sha256": "086c271fcb926ced31fa717482b03ee3aaf9823a832a8e7122a9ee9ea47baa2c"
+    },
+    {
+      "number": 745,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-745-answer/",
+      "status": "imported",
+      "sha256": "dfded5da5bde609cad3f6726783d0932b4331d480709a36b1a287c3901ccbee6"
+    },
+    {
+      "number": 746,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-746-answer/",
+      "status": "imported",
+      "sha256": "d369e4ff7976169cbdd4f95cfd5c5aac5f07d2670c1249d3c3fc7ffd914472c2"
+    },
+    {
+      "number": 747,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-747-answer/",
+      "status": "imported",
+      "sha256": "8c147f89fb441d994e66af53110662cf17add2215effdf354c62760b47164dff"
+    },
+    {
+      "number": 748,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-748-answer/",
+      "status": "imported",
+      "sha256": "2ca9ed030ee83388a2f6f49d06d3ef3c2a653631ebd6ffc05e85305bbc041b2e"
+    },
+    {
+      "number": 749,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-749-answer/",
+      "status": "imported",
+      "sha256": "ca8b4f14048afcd54b408821868054b4167865f6fe82d349717725d7bda8be15"
+    },
+    {
+      "number": 750,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-750-answer/",
+      "status": "imported",
+      "sha256": "505be22ad7e29f9609404968d0cd6ce81b92e3055e92ce91f5e2ef3d095c23e1"
+    },
+    {
+      "number": 751,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-751-answer/",
+      "status": "imported",
+      "sha256": "1bf7ddf213f9d563822228ff37b600c08eb58a3a2f8772da1b0b80079aad4369"
+    },
+    {
+      "number": 752,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-752-answer/",
+      "status": "imported",
+      "sha256": "bfe4354712af239eedec0919a3494d9adf6b95a923a79b8b4255031cf7a3f269"
+    },
+    {
+      "number": 753,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-753-answer/",
+      "status": "imported",
+      "sha256": "46c300b732c12314c388521dbb694e4fc4abacd3be9148ea1781ea09a15b05a3"
+    },
+    {
+      "number": 754,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-754-answer/",
+      "status": "imported",
+      "sha256": "3c3221b8a9197aac038331b815a3914389d180ed0b0a410c8a20d19d88325aec"
+    },
+    {
+      "number": 755,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-755-answer/",
+      "status": "imported",
+      "sha256": "7b0e6fa3307e2e69856a7af5a03ce8861f5d89b3dbfa6d0bcc8f863526c63a23"
+    },
+    {
+      "number": 756,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-756-answer/",
+      "status": "imported",
+      "sha256": "c722185ff67e15cf6578ebec0cdbd0c9f92bced59c81c799fb569949ebc61116"
+    },
+    {
+      "number": 757,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-757-answer/",
+      "status": "imported",
+      "sha256": "20dc1c16aec3dc6318990ea636db022f729006f3ef7363165b6364f9fbd32b5f"
+    },
+    {
+      "number": 758,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-758-answer/",
+      "status": "imported",
+      "sha256": "6b0579b9940a82f7fc833bd18abb921ae5df853155191c669708f62ae24a60f5"
+    },
+    {
+      "number": 759,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-759-answer/",
+      "status": "imported",
+      "sha256": "60284207e1bba32a9231dfdb6c052dc097a140f1702ef2140f098552c2011837"
+    },
+    {
+      "number": 760,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-760-answer/",
+      "status": "imported",
+      "sha256": "7c51606d7bb6099314658ee9fd9e8a0bd3d6c48205a675ff8b100953f008e951"
+    },
+    {
+      "number": 761,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-761-answer/",
+      "status": "imported",
+      "sha256": "2a6b79c88b1f4829b2f7bd7a16c1557e23868025d2ea1d449f54290707ce9f22"
+    },
+    {
+      "number": 762,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-762-answer/",
+      "status": "imported",
+      "sha256": "64db56c0c2f3019d3426dcfa6c509ac2069afa8512ce86d0d402c8b062ec5781"
+    },
+    {
+      "number": 763,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-763-answer/",
+      "status": "imported",
+      "sha256": "9e58d611b3cf8111f2295f2ecfafca5ff197bf38e7c273264ad7e6bf5d772d6f"
+    },
+    {
+      "number": 764,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-764-answer/",
+      "status": "imported",
+      "sha256": "5d089cf8b912fdeade89d1d60864d58251ec467f387fb470607e347419bd1127"
+    },
+    {
+      "number": 765,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-765-answer/",
+      "status": "imported",
+      "sha256": "8df9bb77663396fe0d90bc13b54c10d58284999b703071ee442380150709aada"
+    },
+    {
+      "number": 766,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-766-answer/",
+      "status": "imported",
+      "sha256": "84638b210282d96a5881660ff2fda0eb7428e93a92737826ceac5d362c27685c"
+    },
+    {
+      "number": 767,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-767-answer/",
+      "status": "imported",
+      "sha256": "7c9fde509feb9eb2b174cf64bb0910625ed7cc2eb4d4dbb7c4aae2f4748e9967"
+    },
+    {
+      "number": 768,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-768-answer/",
+      "status": "imported",
+      "sha256": "8bf80f30ebfdec8cfdab1a2104a166b857bff88cc591de7db4ef1ad5120af342"
+    },
+    {
+      "number": 769,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-769-answer/",
+      "status": "imported",
+      "sha256": "7ad40db693afb7d165ed7dd45c934db5efe515f65c19d9259a7d4b453773e88d"
+    },
+    {
+      "number": 770,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-770-answer/",
+      "status": "imported",
+      "sha256": "0c4b2ca437a51b1dbcd1ca190403c63a41bd952306d70a0d10950ad4a430488a",
+      "rerunOf": 679
+    },
+    {
+      "number": 771,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-771-answer/",
+      "status": "imported",
+      "sha256": "6e774b40e2798bc28edfa876748af4b7406ab3128a8dcc7f5f3276ba08fbf3d6"
+    },
+    {
+      "number": 772,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-772-answer/",
+      "status": "imported",
+      "sha256": "e36cc728e622e2ee9d938eaff9b5223f9b90aa6896b226ff7a2aaa88d81b57d4"
+    },
+    {
+      "number": 773,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-773-answer/",
+      "status": "imported",
+      "sha256": "ca460437c1df9502243979bf9155f7e8acaed6b53a966c09c19b4b56f36d6ebd"
+    },
+    {
+      "number": 774,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-774-answer/",
+      "status": "imported",
+      "sha256": "7d4a4e3050e925f4934f08759a5f35958d08675df2deaaec793852627ddc4750"
+    },
+    {
+      "number": 775,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-775-answer/",
+      "status": "imported",
+      "sha256": "510ec552000d59ce0b3a90ca37f6e90070e2650c72f0c3467a251ec717f8d1ec"
+    },
+    {
+      "number": 776,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-776-answer/",
+      "status": "imported",
+      "sha256": "774db97007aed939fb59ea75f2a7e389ed0c9ccd666b959f8cc1b4c04759bd59"
+    },
+    {
+      "number": 777,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-777-answer/",
+      "status": "imported",
+      "sha256": "2719ed95f08a69b5afe64e2e50b2e8117b7a98f449ae949b014b45374281e5be"
+    },
+    {
+      "number": 778,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-778-answer/",
+      "status": "imported",
+      "sha256": "5bf64499e6379c31e18291eef494ca156a052d1421e3090e1e2ef234425c67f5"
+    },
+    {
+      "number": 779,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-779-answer/",
+      "status": "imported",
+      "sha256": "77e51dac654365acd89fab1a70021b4c05cd77150a6cd53fee1511873cabe1ac"
+    },
+    {
+      "number": 780,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-780-answer/",
+      "status": "imported",
+      "sha256": "b609e79f6d910d6f759f8b664d180a4d662f3dd0ba35ff12e067aadd6c44b926"
+    },
+    {
+      "number": 781,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-781-answer/",
+      "status": "imported",
+      "sha256": "fca32fe8fe24c945ef454adbb67b7c848ae2cddc2818664ef3e8fea8ae1e6064"
+    },
+    {
+      "number": 782,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-782-answer/",
+      "status": "imported",
+      "sha256": "ebabac78a018823e5afd2e4c9ce7b0d380f0df6f17d44f6ba86c39201d5f87d9"
+    },
+    {
+      "number": 783,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-783-answer/",
+      "status": "imported",
+      "sha256": "37fa99e80d7f2a57d27475df052d9950a93ab800dcfea0f06046df52f5cb346d"
+    },
+    {
+      "number": 784,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-784-answer/",
+      "status": "imported",
+      "sha256": "396d04f69f83669228feb3fa0559deea82b61a992ca5d7769cad88853196a90d"
+    },
+    {
+      "number": 785,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-785-answer/",
+      "status": "imported",
+      "sha256": "26d10689a9c5ec73b286994dda842aa519e9f72cfe523008cafb3b51b7a5703e"
+    },
+    {
+      "number": 786,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-786-answer/",
+      "status": "imported",
+      "sha256": "71ac9213ae4f78ca16ba533e8953746d737ad635fad5b17d47fb0a9846d8a4bd"
+    },
+    {
+      "number": 787,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-787-answer/",
+      "status": "imported",
+      "sha256": "4720d489907b7b6d9a7aebe7b9e30ab97e0f9342f835000fe1f939ed92063376"
+    },
+    {
+      "number": 788,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-788-answer/",
+      "status": "imported",
+      "sha256": "7f70928db5eb5fb798c13753ee65aaea812a9113e0d08c05ae627af77b0a653c"
+    },
+    {
+      "number": 789,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-789-answer/",
+      "status": "imported",
+      "sha256": "bc2a49089893f9ec4d4303b88afe06234927a1d3a2e362f4709359bb81e54e67"
+    },
+    {
+      "number": 790,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-790-answer/",
+      "status": "imported",
+      "sha256": "32ec87670f939aa85c78d2eac8d6b744208bc34a09c4369785ee1d172ad67a16"
+    },
+    {
+      "number": 791,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-791-answer/",
+      "status": "imported",
+      "sha256": "7218858043989a4da14fa790e41b597a52285054f117721791f466baf32618dc"
+    },
+    {
+      "number": 792,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-792-answer/",
+      "status": "imported",
+      "sha256": "63f2876e7f071cc1528fb1c2f75b11ca39365c3c19c70d0acf71a1861c153733"
+    },
+    {
+      "number": 793,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-793-answer/",
+      "status": "imported",
+      "sha256": "a61b6c24d9cccdb5ed6f69fcc7789e30498450d3e4c294e1a4aaad640335a541"
+    },
+    {
+      "number": 794,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-794-answer/",
+      "status": "imported",
+      "sha256": "f9c283d9711553b821454e821b66bde2a05e1e1375c0620c987f57ec47e075ab"
+    },
+    {
+      "number": 795,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-795-answer/",
+      "status": "imported",
+      "sha256": "65b977d9ca73c2f865807d46243834af0c06df0324619e5713418bbbf0a3a910"
+    },
+    {
+      "number": 796,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-796-answer/",
+      "status": "imported",
+      "sha256": "f99680dd9133a430be8b364d01b11226f6a7051d3f537e219346eeac25f9c018"
+    },
+    {
+      "number": 797,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-797-answer/",
+      "status": "imported",
+      "sha256": "42b507de00355b6900197c81ceeb212ffe50b535281cb26319f0056952821a72"
+    },
+    {
+      "number": 798,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-798-answer/",
+      "status": "imported",
+      "sha256": "ba3e04cacc6194a0cd3f60a715f60b155aa18cccaeb23e8ab9668ed221cbe42c"
+    },
+    {
+      "number": 799,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-799-answer/",
+      "status": "imported",
+      "sha256": "4f991dc6021e8e2df80a3aa9daadb320a2097f226519e4586142febfd955389d"
+    },
+    {
+      "number": 800,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-800-answer/",
+      "status": "imported",
+      "sha256": "efce5050f112e625692b9ce38dd9a8018639ff1780403198a17322d1409eddc5"
+    },
+    {
+      "number": 801,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-801-answer/",
+      "status": "imported",
+      "sha256": "33d65d71aa7f889e2605b828b709fb5e801cb551370f52da5baa1a01267c6c2a"
+    },
+    {
+      "number": 802,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-802-answer/",
+      "status": "imported",
+      "sha256": "9c4f2e7ec7009a2f7c0513e2bcda637adc61b737cf57a38498ef0b56771f71b7"
+    },
+    {
+      "number": 803,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-803-answer/",
+      "status": "imported",
+      "sha256": "10eadc069e25edaf8f916a4c5505561c3008c38c2df90d8a4d16e8a9bd5759d8"
+    },
+    {
+      "number": 804,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-804-answer/",
+      "status": "imported",
+      "sha256": "c82e340eefc21c277953a2e8c792abb83b7d77dab2134b0efbc33116c3ce59e3"
+    },
+    {
+      "number": 805,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-805-answer/",
+      "status": "imported",
+      "sha256": "9d3163c6483e9b931834247182db18b0702fe9f37c944d532cac6fcb1deaa2a0"
+    },
+    {
+      "number": 806,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-806-answer/",
+      "status": "imported",
+      "sha256": "2d86b75f920da042a690160146f831b9701359bbbfc11b278e1f52dfa61b782a"
+    },
+    {
+      "number": 807,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-807-answer/",
+      "status": "imported",
+      "sha256": "b0cf91421f11fcc05bd7b7c460f4c4563b6389908a84a2d5945e78edbb57253a"
+    },
+    {
+      "number": 808,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-808-answer/",
+      "status": "imported",
+      "sha256": "0fde5e710c974d472e781b67bcbdc0cc0c6acb489b060cfbf5f2c377dfe4393a"
+    },
+    {
+      "number": 809,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-809-answer/",
+      "status": "imported",
+      "sha256": "c4bfea1491efa7dd3af54c89e13f44a3a79943ef8489419563b14f936e479d98"
+    },
+    {
+      "number": 810,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-810-answer/",
+      "status": "imported",
+      "sha256": "f400702411944d558dbacbd03ee7ab60685dabeac9d2428ba8aeefe03574f7c3"
+    },
+    {
+      "number": 811,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-811-answer/",
+      "status": "imported",
+      "sha256": "098f0d5a0cacdfb2dd1a582a26fb8e1bced4ce957619e72428d489d6a6216648"
+    },
+    {
+      "number": 812,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-812-answer/",
+      "status": "imported",
+      "sha256": "59459a287f332c65a9b514136a83af4dc12db645343f0044c5ba9298a8ddcbd1"
+    },
+    {
+      "number": 813,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-813-answer/",
+      "status": "imported",
+      "sha256": "6550c618e4c0a3cec07077e29bf673a275fea5dd8a69fc03876c114cb073e587"
+    },
+    {
+      "number": 814,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-814-answer/",
+      "status": "imported",
+      "sha256": "57566436017a17c56a28c0557b26639c906ba7d5e34f6f41c5b891a8114f29a3"
+    },
+    {
+      "number": 815,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-815-answer/",
+      "status": "imported",
+      "sha256": "0c25b2849382bda594a3f8ae852ceabe7138114b949cdef896405303d5d3fca3"
+    },
+    {
+      "number": 816,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-816-answer/",
+      "status": "imported",
+      "sha256": "30e4287e36294cdfb7fe306b079f1e293709d54818aebe94f6e96d73e5fe8f40"
+    },
+    {
+      "number": 817,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-817-answer/",
+      "status": "imported",
+      "sha256": "7fda9d9558d18c6d448cacda459ce3882f5a164fc8bee2b38283b3e0737f1ff9"
+    },
+    {
+      "number": 818,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-818-answer/",
+      "status": "imported",
+      "sha256": "9923e431a25d1844843b0615ac4a0cc9ffcada78017018a32ba3c59d82ea2eb3"
+    },
+    {
+      "number": 819,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-819-answer/",
+      "status": "imported",
+      "sha256": "148eed1ab15bcbecc9b0eb1cc7f43f67d0d479d7bfe0eeb0a1b613d6d69c302e"
+    },
+    {
+      "number": 820,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-820-answer/",
+      "status": "imported",
+      "sha256": "a63b4f446869668e2b08ed1a3a848aa8ea211c09679793e9fd49be9347f9264c"
+    },
+    {
+      "number": 821,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-821-answer/",
+      "status": "imported",
+      "sha256": "cde8d251e8c7c7d993b0fd5f699a1322cb4ef658432342a1f0ce8717d90875c2"
+    },
+    {
+      "number": 822,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-822-answer/",
+      "status": "imported",
+      "sha256": "3f499cec3a2780c2b004eb9fd5ef61e2ef469d670a4e4cb00874da7d39514bb1"
+    },
+    {
+      "number": 823,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-823-answer/",
+      "status": "imported",
+      "sha256": "3c8332bb786c5977fce973587bb54b99d6ff02a59cbae8ca97d2075b22573974"
+    },
+    {
+      "number": 824,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-824-answer/",
+      "status": "imported",
+      "sha256": "b67786716e09c4a072d79e84e98de756a2419f57d93bd35e332b9cf80f86a6ef"
+    },
+    {
+      "number": 825,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-825-answer/",
+      "status": "imported",
+      "sha256": "ef77a3e2ef29d285ad8cbf79d9e6a3ae74a0c662905eac9f03ea1598ef42bdd6"
+    },
+    {
+      "number": 826,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-826-answer/",
+      "status": "imported",
+      "sha256": "1ed41c3911bc10579e4f5ab53086228b9aa8a6738070964a41199715fc18ac9c"
+    },
+    {
+      "number": 827,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-827-answer/",
+      "status": "imported",
+      "sha256": "e34d4e5a1ef3bc15e87eecd10d9dd047f18058cf00977f5b85dc5c3031c56f54"
+    },
+    {
+      "number": 828,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-828-answer/",
+      "status": "imported",
+      "sha256": "7c988e94a1d812ead87fb760820276f3a4650b79c381673c49e3a462f801af37"
+    },
+    {
+      "number": 829,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-829-answer/",
+      "status": "imported",
+      "sha256": "56126826bd180d026c0a6f51bce895fcbac4040017d7b1a83d99f46fd04d85c8"
+    },
+    {
+      "number": 830,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-830-answer/",
+      "status": "imported",
+      "sha256": "5a621f2b9ace6adcfc3b25cec4aa04fd28e1af276ff32129566d299aced9ee78"
+    },
+    {
+      "number": 831,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-831-answer/",
+      "status": "imported",
+      "sha256": "fe120485399dd9c59a75ac7d3dc2908fc867c782ca4f156ea38312cddc0aee3b"
+    },
+    {
+      "number": 832,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-832-answer/",
+      "status": "imported",
+      "sha256": "e404eac40d77e313cee406f79387896a82f2b42fa4742f6dcf88575af57113a8"
+    },
+    {
+      "number": 833,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-833-answer/",
+      "status": "imported",
+      "sha256": "3c5f1f0a9b97dc770c56d97aee6482f8395d343116ab4f56b641d903be990202"
+    },
+    {
+      "number": 834,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-834-answer/",
+      "status": "imported",
+      "sha256": "fd9bca0829bc46c06351137a20840b12ce98a8281eaf7d19f7e7e129ec0bb396"
+    },
+    {
+      "number": 835,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-835-answer/",
+      "status": "imported",
+      "sha256": "f4670bf75a83d264586727de8b8ae56ff4eacf3f41070519a22de560cc9964a1"
+    },
+    {
+      "number": 836,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-836-answer/",
+      "status": "imported",
+      "sha256": "f808de4cff324e928392abb1f37423adbc56eb269b7ad155f23ebc1faebee9d2"
+    },
+    {
+      "number": 837,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-837-answer/",
+      "status": "imported",
+      "sha256": "6c7a24e31de03b81f528ba66a881f89a3422a361f43b5f521813460c2274695f"
+    },
+    {
+      "number": 838,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-838-answer/",
+      "status": "imported",
+      "sha256": "286d28e3d6a45c94c74762885eb73b0a5b341f02108b7977cff063dee93161db"
+    },
+    {
+      "number": 839,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-839-answer/",
+      "status": "imported",
+      "sha256": "0bf515ff545e67bcafc570507276d2ecab7354e9bae39b622695e0a80fc1cdae"
+    },
+    {
+      "number": 840,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-840-answer/",
+      "status": "imported",
+      "sha256": "95c7f6fed4dc8a8f2b22dfc126d28860a199ea5bca67e79c3c5b2ea22e2da904"
+    },
+    {
+      "number": 841,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-841-answer/",
+      "status": "imported",
+      "sha256": "b665f7113f62432db3c848c2f3e383ac0e308c6681f1cb743d5d4563f72bee0e"
+    },
+    {
+      "number": 842,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-842-answer/",
+      "status": "imported",
+      "sha256": "19aa38fd3438178de31915de0080c5822f3a4cdd1f3795fa9441ff9b7f56eddb"
+    },
+    {
+      "number": 843,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-843-answer/",
+      "status": "imported",
+      "sha256": "88b25a68c4499aae69f9e4230bf54359394876e1c3f4ed0b33184ecad5495b33"
+    },
+    {
+      "number": 844,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-844-answer/",
+      "status": "imported",
+      "sha256": "3e21454dfce89a5f455592d159381bf73d34e1dbc1a81059bfe9fd2f2fa8c33c"
+    },
+    {
+      "number": 845,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-845-answer/",
+      "status": "imported",
+      "sha256": "0dcd175a794fe7088cdf5b2ed14ba578aacd34cc3fe18d6c34a0b9e1611fc29c"
+    },
+    {
+      "number": 846,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-846-answer/",
+      "status": "imported",
+      "sha256": "5a55389a8edfa1c1fa480a37ff8a9b7910381cfdd45007fd856d2e8ac25a1d03"
+    },
+    {
+      "number": 847,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-847-answer/",
+      "status": "imported",
+      "sha256": "a1b0ca10df098e57187552dfca14f270d6b7686bb9cc749329980806e89f933d"
+    },
+    {
+      "number": 848,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-848-answer/",
+      "status": "imported",
+      "sha256": "c243a73783e23b071ca17b1814eeac7c1fed79bcd73021cae520ff142467fcc5"
+    },
+    {
+      "number": 849,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-849-answer/",
+      "status": "imported",
+      "sha256": "455c98e390b53fc62bab769a9da28ef78109e199fb9256ce0514935cbb6d26fa"
+    },
+    {
+      "number": 850,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-850-answer/",
+      "status": "imported",
+      "sha256": "57ce26f7293afdf5b966f6cbc54a03c3bd42848d2af4d93c9b73e7c674ffed94"
+    },
+    {
+      "number": 851,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-851-answer/",
+      "status": "imported",
+      "sha256": "09d268270f5d167fb1155e30f1cd78562a94794d383857a53d9f081de552df8a"
+    },
+    {
+      "number": 852,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-852-answer/",
+      "status": "imported",
+      "sha256": "218a17277bd321f6b9755616915fbf2d2c7cc237b19ebd6c192821f56d74f660"
+    },
+    {
+      "number": 853,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-853-answer/",
+      "status": "imported",
+      "sha256": "de685a7f97390f4b41c36ee5674e55aa5cc719afb08e904f0b6af16ebc70eb6c"
+    },
+    {
+      "number": 854,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-854-answer/",
+      "status": "imported",
+      "sha256": "12e8adea5ec24dbd71f7fb23db8b8470db3ca851f39f77497ccc9118a3d9554d"
+    },
+    {
+      "number": 855,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-855-answer/",
+      "status": "imported",
+      "sha256": "81af0e289aae1b1c4c60100941228a6a5d239fba1cfccce2a23b50b115d63160"
+    },
+    {
+      "number": 856,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-856-answer/",
+      "status": "imported",
+      "sha256": "27c40a6a9c7f45338b0e0bd9b04fe192e636400377ca1ae52dc33937b2c96210"
+    },
+    {
+      "number": 857,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-857-answer/",
+      "status": "imported",
+      "sha256": "2d3397dd6b0c7b9180c6aa807ba098cc35b6bf3dccb46107d9db36e2ffe7ee12"
+    },
+    {
+      "number": 858,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-858-answer/",
+      "status": "imported",
+      "sha256": "dbbcf679c6abc431e9a95d509cc6010e54cde73a66e7c84cb6b6908ae814bf65"
+    },
+    {
+      "number": 859,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-859-answer/",
+      "status": "imported",
+      "sha256": "679f7a3537a32c4e50be916e5e3efdd8b575cb947db3724638a9ac4134b0b849"
+    },
+    {
+      "number": 860,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-860-answer/",
+      "status": "imported",
+      "sha256": "020a95a2373c09bdd8b203f1fca0e3d979759a603e26ad529cb655699e8f8f3c"
+    },
+    {
+      "number": 861,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-861-answer/",
+      "status": "imported",
+      "sha256": "3920e217c27539bcbbd84d779bccdb91f5ff13cbbc0599af9b6932099dd60d7d"
+    },
+    {
+      "number": 862,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-862-answer/",
+      "status": "imported",
+      "sha256": "ee17933ae920f02844bb823e70bb03837846dea75f065f07a1a6d8154b6dcfbe"
+    },
+    {
+      "number": 863,
+      "url": "https://linkedinzip.solutions/linkedin-queens-puzzle-863-answer/",
+      "status": "imported",
+      "sha256": "be6444af399513012db5a4c3398c43b0c2eca6b622b354b88051bddf1e0b489e"
+    }
+  ]
+}

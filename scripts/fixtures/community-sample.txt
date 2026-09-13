@@ -1,0 +1,34 @@
+// Sample input for scripts/import-text-puzzles.ts (also used by its unit test).
+// Blocks are separated by blank lines; a block may start with a header line
+//   # <name> | <date YYYY-MM-DD> | <number>
+
+# Four corners | 2026-02-01 | 1
+AABB
+CCBB
+CDDB
+CDDD
+
+// LinkedIn Queens #1, mirrored left-to-right: must be reported as a duplicate
+// of li-1 because the layout is compared up to rotation/reflection.
+# Mirror of LinkedIn #1
+CCCBBBAA
+CCEBDBDA
+CCCBDBDA
+CGFBDDDA
+GGFBDDDA
+GGFBDHDA
+GFFBDHDH
+GGGGHHHH
+
+// Every row its own region: two solutions, must be rejected.
+# Ambiguous rows
+1 1 1 1
+2 2 2 2
+3 3 3 3
+4 4 4 4
+
+// Same layout as "Four corners" with other labels and no header: an in-batch duplicate.
+x, x, y, y
+z, z, y, y
+z, w, w, y
+z, w, w, w
