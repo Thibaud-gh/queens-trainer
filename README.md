@@ -1,9 +1,10 @@
 # Queens Trainer
 
-A web clone of LinkedIn's daily **Queens** puzzle, built for practice: replay
-historical LinkedIn boards, generate endless new ones at a chosen difficulty,
-get rule-based hints, and share any board by link. Vite + React + TypeScript,
-no backend — everything runs in the browser and deploys as a static site.
+Train at Queens by replaying all 855 historical LinkedIn puzzles and generating
+new puzzles that match patterns from the originals. Choose a difficulty, get
+hints, and share any puzzle with a link.
+
+**[Try it for free — no account needed.](https://thibaud-gh.github.io/queens-trainer/)**
 
 ## The rules
 
